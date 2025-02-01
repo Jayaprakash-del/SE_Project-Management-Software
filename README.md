@@ -135,6 +135,7 @@ To get a local copy up and running, follow these simple steps:
 - **Khushboo Gupta** ([GitHub](https://github.com/khushboo56)): Pod-2 Scrum master,Frontend developer
 - **Harsh Vavadiya** ([GitHub](https://github.com/HarshVavadiya2)): Pod-1 Frontend developer
 - **Ayush Sahu** ([GitHub](https://github.com/AyushSahu1306)): Pod-2 Frontend developer
+- **Ramavath Jayaprakash** ([GitHub](https://github.com/Jayaprakash-del)): Pod-1 Frontend developer
 - **Shushil Kumar** ([GitHub](https://github.com/mrsushilkumar)): Frontend Tester
 - **Chetan** ([GitHub](https://github.com/kamble268)): Pod-2 Frontend developer
 - **Priyanshu Kumar** ([GitHub](https://github.com/PriyanshuKumar88885)): Pod-2 Frontend developer, Web designer
